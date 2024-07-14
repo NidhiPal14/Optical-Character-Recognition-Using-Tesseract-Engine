@@ -22,6 +22,8 @@ For more complex tasks, you might consider a GPU.
 # TECHNICAL IMPLEMENTATION DETAILS  
 The core technical implementation involves a series of steps that ensure efficient and accurate 
 text extraction from images. This process can be broken down into the following key stages: 
+
+
 • Image Acquisition: Images are acquired from various sources, such as user uploads, 
 web scraping, or existing image databases. 
 
