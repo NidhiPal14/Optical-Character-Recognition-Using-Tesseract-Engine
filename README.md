@@ -1,0 +1,2 @@
+# Optical-Character-Recognition-Using-Tesseract-Engine
+This project utilizes Google's Tesseract Engine for text extraction from pdf files and various image formats and converts that text  images to editable and searchable  text. Additionally, it incorporates text to speech functionality through pyttsx3  engine and text translation from one language to another  through Google's Language translation API.
